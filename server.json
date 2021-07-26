@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Thor",
+      "price": 79.9,
+      "image": "https://i.pinimg.com/236x/a4/b2/e7/a4b2e7fb95fe2807fffd4b653070d92b.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Avengers",
+      "price": 39.9,
+      "image": "https://i.pinimg.com/236x/91/b3/6b/91b36b80c004f4004a94e9e1eec678e3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Revenant",
+      "price": 90.9,
+      "image": "https://i.pinimg.com/236x/8f/e6/06/8fe606b33f0bd5953336d084094efa5e.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Joker",
+      "price": 79.9,
+      "image": "https://i.pinimg.com/236x/6d/71/17/6d7117c3be0616afa4c4dccb9f4f776b.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Malevola",
+      "price": 54.2,
+      "image": "https://i.pinimg.com/236x/fe/b9/a2/feb9a2624a77427db0cf9c2e03b69591.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Shazam",
+      "price": 57.1,
+      "image": "https://i.pinimg.com/236x/04/97/27/049727f0693b49923febb4b99745fa04.jpg"
+    }
+  ]
+}
